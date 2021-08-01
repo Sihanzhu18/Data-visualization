@@ -1,0 +1,36 @@
+country,placename,frequency,start_date,end_date,year,month,week,death,expected_deaths,excess_deaths,baseline,,,deaths
+Austria,,weekly,2020/11/30,2020/12/6,2020,12,49,2547,1613,934,2015-2019 historical data,,,2547
+Belgium,,weekly,2020/4/6,2020/4/12,2020,4,15,4284,2120,2164,2016-2019 historical data,,,4284
+Bolivia,,monthly,,,2020,7,,17239,4741,12498,2016-2019 historical data,,,17239
+Brazil,,weekly,2020/5/10,2020/5/16,2020,5,20,33828,23679,10149,2015-2019 historical data,,,33828
+Chile,,weekly,2020/6/8,2020/6/14,2020,6,24,3966,2376,1590,2015-2019 historical data,,,3966
+Colombia,,weekly,2020/7/27,2020/8/2,2020,8,31,7937,4734,3203,2015-2019 historical data,,,7937
+Czech Republic,,weekly,2020/10/26,2020/11/1,2020,11,44,4207,2112,2095,2015-2019 historical data,,,4207
+Denmark,,weekly,2018/3/5,2018/3/11,2018,3,10,1337,,,,,,1337
+Ecuador,,monthly,,,2020,4,,20790,5889,14901,2017-2019 historical data,,,20790
+Finland,,weekly,2017/1/9,2017/1/15,2017,1,2,1335,,,,,,1335
+France,,weekly,2020/3/30,2020/4/5,2020,4,14,19085,11940,7145,2010-2019 historical data,,,19085
+Germany,,weekly,2018/3/5,2018/3/11,2018,3,10,26777,,,,,,26777
+Hungary,,weekly,2020/11/9,2020/11/15,2020,11,46,3829,2416,1413,2015-2019 historical data,,,3829
+India,Mumbai,monthly,,,2020,5,,13833,7335,6498,2019 historical data,,,13833
+Indonesia,Jakarta,monthly,,,2020,9,,5492,2829,2663,2010-2019 historical data,,,5492
+Ireland,,weekly,2020/4/6,2020/4/12,2020,4,15,896,615,281,2015-2019 historical data,,,896
+Israel,,weekly,2017/1/9,2017/1/15,2017,1,2,1156,,,,,,1156
+Italy,,monthly,,,2020,3,,86261,58267,27994,2015-2019 historical data,,,86261
+Japan,,monthly,,,2019,1,,141292,,,,,,141292
+Mexico,,weekly,2020/7/13,2020/7/19,2020,7,29,28150,13276,14874,2015-2018 historical data,,,28150
+Netherlands,,weekly,2020/3/30,2020/4/5,2020,4,14,5084,3039,2045,2016-2019 historical data,,,5084
+Norway,,weekly,2017/1/9,2017/1/15,2017,1,2,1048,,,,,,1048
+Peru,,monthly,,,2020,7,,29424,9280,20144,2017-2019 historical data,,,29424
+Poland,,monthly,,,2020,11,,64290,33890,30400,2016-2019 historical data,,,64290
+Portugal,,weekly,2016/12/26,2017/1/1,2016,1,52,3200,,,,,,3200
+Russia,Moscow,monthly,,,2020,5,,15713,9791,5922,2015-2019 historical data,,,15713
+South Africa,,weekly,2020/12/23,2020/12/29,2020,12,52,16532,9692,6840,2018-2019 historical data,,,16532
+South Korea,,monthly,,,2018,1,,31550,,,,,,31550
+Spain,,weekly,2020/3/30,2020/4/5,2020,4,14,19159,7892,11267,2018-2019 historical data,,,19159
+Sweden,,weekly,2020/4/6,2020/4/12,2020,4,15,2569,1720,849,2015-2019 historical data,,,2569
+Switzerland,,weekly,2020/11/30,2020/12/6,2020,12,49,2159,1357,802,2016-2019 historical data,,,2159
+Thailand,,monthly,,,2019,4,,47966,,,,,,47966
+Turkey,Istanbul,weekly,2020/11/30,2020/12/6,2020,12,49,2976,1434,1542,2018-2019 historical data,,,2976
+United Kingdom,,weekly,2020/4/11,2020/4/17,2020,4,16,24691,10851,13840,2010-2019 historical data,,,24691
+United States,,weekly,2020/4/6,2020/4/12,2020,4,15,79058,56441,22617,2015-2019 historical data,,,79058
